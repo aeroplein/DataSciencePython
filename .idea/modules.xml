@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../MiuulCaseStudy3/.idea/MiuulCaseStudy3.iml" filepath="$PROJECT_DIR$/../MiuulCaseStudy3/.idea/MiuulCaseStudy3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dataVisualization/.idea/dataVisualization.iml" filepath="$PROJECT_DIR$/../dataVisualization/.idea/dataVisualization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../data_analysis/.idea/data_analysis.iml" filepath="$PROJECT_DIR$/../data_analysis/.idea/data_analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/explaratory_data_analysis.iml" filepath="$PROJECT_DIR$/.idea/explaratory_data_analysis.iml" />
+    </modules>
+  </component>
+</project>
